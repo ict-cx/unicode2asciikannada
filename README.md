@@ -1,5 +1,5 @@
 # asciikannada2unicode
-ASCII Kannada (Baraha / Nudi) to Unicode
+Unicode Kannada to ASCII Kannada (Baraha / Nudi)
 
 Java Implementation of UNICODE Kannada to ASCII Kannada (Baraha / Nudi font).
 
